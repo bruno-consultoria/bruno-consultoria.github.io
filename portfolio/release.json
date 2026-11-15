@@ -1,0 +1,50 @@
+{
+  "release": "sites-20261115",
+  "date": "2026-11-13",
+  "areas": [
+    "consultoria"
+  ],
+  "projects": {
+    "consultoria": [
+      "2026-edificio-residencial-da-construtora-hype",
+      "2026-cinco-edificios-residenciais-da-construtora-embraed",
+      "2026-ampliacao-do-terminal-de-passageiros-do-aeroporto-hercilio-luz",
+      "2025-estudos-aeronauticos-para-corumba-ponta-pora-e-campo-grande",
+      "2025-heliponto-no-edificio-armani-casa-residences-by-embraed",
+      "2025-heliponto-privado-no-aeroporto-de-guarulhos",
+      "2025-hangar-temporario-de-helicopteros-no-aeroporto-de-macae",
+      "2023-helipontos-privados-bcw2-e-bcw3-no-parque-beto-carrero-world",
+      "2023-hangar-de-aeronaves-no-aeroporto-bacacheri",
+      "2023-parque-residencial-proximo-ao-aeroporto-de-vitoria",
+      "2023-alteracao-cadastral-de-aeroportos-da-motiva-aeroportos",
+      "2022-aerodromo-privado-fazenda-cabeceira-do-pontal",
+      "2022-nova-pista-de-pouso-e-decolagem-no-aeroporto-de-macae",
+      "2021-heliponto-privado-no-hospital-santo-antonio-hsan",
+      "2021-papi-da-cabeceira-20-do-aeroporto-de-vitoria"
+    ]
+  },
+  "area_counts": {
+    "consultoria": 15
+  },
+  "active_projects": 68,
+  "software_projects": [
+    "rakestra-app",
+    "rakestra-gestao",
+    "agastudio"
+  ],
+  "pending_beauty_review_excluded": true,
+  "animated_areas": [
+    "beleza",
+    "design",
+    "produtos",
+    "dados",
+    "consultoria",
+    "software"
+  ],
+  "review_tools_published": false,
+  "public_resume_languages": [
+    "pt"
+  ],
+  "public_resume_count": 5,
+  "clean_urls": true
+}
